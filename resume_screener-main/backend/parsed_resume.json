@@ -1,0 +1,153 @@
+{
+  "full_name": "Soham Jyoti Mondal",
+  "email": "sohamjyotimondal@gmail.com",
+  "phone": "1111111111",
+  "location": "Chennai, TN",
+  "external_links": {
+    "linkedin": "https://www.linkedin.com/in/sohamjyotimondal/",
+    "github": "https://github.com/sohamjyotimondal/",
+    "portfolio": "https://sohamjyotimondal.me"
+  },
+  "work_experience": [
+    {
+      "company": "Pythian Technologies Pvt Ltd",
+      "position": "GenAI Intern",
+      "duration": "May 2024 \u2013 August 2024",
+      "description": "Designed a maritime risk\u2011assessment chatbot with GraphQL integration for natural\u2011language queries and built an agentic HR chatbot using CrewAI, RAG, and dynamic SQL generation to automate data reporting and visualization."
+    },
+    {
+      "company": "Samsung R&D Institute Bangalore",
+      "position": "Advanced Research Intern",
+      "duration": "July 2024 \u2013 Feb 2025",
+      "description": "Implemented audio preprocessing and augmentation pipelines for body\u2011sound analysis and benchmarked a Constant Ensemble Distillation model on specialized audio classification tasks."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vellore Institute of Technology, Chennai",
+      "degree": "B. Tech, Computer Science Engineering with specialization in AI & ML",
+      "marks": "CGPA 9.07/10",
+      "field_of_study": "Computer Science Engineering (AI & ML)",
+      "graduation_year": "2026"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Smaller Segmentation Model Distilled from Mixture of Experts",
+      "description": "Created a compact medical image segmentation model via knowledge distillation from a Mixture\u2011of\u2011Experts UNETR, cutting inference time by 46% and model size by 75% with only a 2% Dice score drop.",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Medical Imaging",
+        "Knowledge Distillation",
+        "UNETR",
+        "Mixture of Experts"
+      ]
+    },
+    {
+      "name": "Custom Reinforcement Learning for Unity Game",
+      "description": "Implemented an RL\u2011based zombie spawner in Unity that adapts spawn rates using a deep neural network and custom reward function to keep gameplay balanced.",
+      "skills": [
+        "Python",
+        "Unity",
+        "Reinforcement Learning",
+        "Deep Neural Networks"
+      ]
+    },
+    {
+      "name": "Cryptographic Encryption Using Invertible Neural Networks",
+      "description": "Built a cryptographic system with invertible neural networks and normalizing flows, achieving 30% lower computational overhead compared to deeper networks.",
+      "skills": [
+        "Python",
+        "Invertible Neural Networks",
+        "Normalizing Flows",
+        "Cryptography"
+      ]
+    },
+    {
+      "name": "Multi\u2011Platform Voter Sentiment Analysis",
+      "description": "Scraped Twitter, Reddit, and Medium data, applied RoBERTa for political sentiment classification, and visualized results with geospatial mapping to identify swing demographics.",
+      "skills": [
+        "Python",
+        "Web Scraping",
+        "RoBERTa",
+        "NLP",
+        "Sentiment Analysis",
+        "Geospatial Mapping"
+      ]
+    },
+    {
+      "name": "Hackathon Aggregator Backend API (KWoC)",
+      "description": "Developed a REST API that aggregates upcoming hackathon information by scraping platforms like Devfolio and Devpost, providing structured endpoints for discovery and filtering.",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "REST API",
+        "Web Scraping",
+        "Data Pipeline"
+      ]
+    },
+    {
+      "name": "Graph Neural Network for Course Recommendation",
+      "description": "Designed a GNN\u2011based recommendation system modeling employee\u2011course interactions and managerial hierarchy to deliver personalized corporate training suggestions.",
+      "skills": [
+        "Python",
+        "PyTorch Geometric",
+        "Graph Neural Networks",
+        "Recommendation Systems"
+      ]
+    }
+  ],
+  "certifications": [],
+  "extracurricular_activities": [],
+  "awards_honors": [],
+  "skills": [
+    "Data Analysis",
+    "Machine Learning",
+    "Computer Vision",
+    "NLP",
+    "Reinforcement Learning",
+    "Medical Image Analysis",
+    "Audio Processing",
+    "Data Mining",
+    "Web Scraping",
+    "CI/CD",
+    "Model Optimization",
+    "Wireshark",
+    "Python",
+    "Java",
+    "C++",
+    "SQL",
+    "Dart",
+    "C",
+    "JavaScript",
+    "TensorFlow",
+    "PyTorch",
+    "LangChain",
+    "Llama Index",
+    "GraphQL",
+    "FastAPI",
+    "Flask",
+    "LIDA",
+    "Mesop",
+    "Hugging Face",
+    "Project Planning",
+    "Technical Documentation",
+    "Research Communication",
+    "Experimental Design",
+    "Cross\u2011functional Collaboration",
+    "Problem\u2011solving",
+    "Knowledge Distillation",
+    "Invertible Neural Networks",
+    "Normalizing Flows",
+    "Cryptography",
+    "Graph Neural Networks",
+    "Recommendation Systems",
+    "REST API",
+    "Unity"
+  ],
+  "publications": [
+    "SMS Spam Detection and Filtering of Transliterated Messages \u2013 Intelligent Computing and Control for Engineering and Business Systems (ICCEBS) (2023)",
+    "The Evolution of Logistics: Role of AI in Enhanced Operational Efficiency and Risk Mitigation \u2013 Redefining Commerce and Management: New Paradigms for the Digital Age (ISBN: 978-81-19368-52-5)"
+  ]
+}

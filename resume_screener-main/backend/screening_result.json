@@ -1,0 +1,80 @@
+{
+  "skill_match": {
+    "score": 8.5,
+    "matched_skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "CI/CD",
+      "Cloud platforms (indirectly through projects)"
+    ],
+    "missing_skills": [
+      "Direct experience with AWS, GCP, or Azure"
+    ],
+    "additional_skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Computer Vision",
+      "NLP",
+      "Reinforcement Learning"
+    ],
+    "reasoning": "The candidate has a strong skill set with proficiency in multiple programming languages, including Python, Java, and JavaScript. They also have experience with CI/CD pipelines, which is a requirement for the job. However, they lack direct experience with cloud platforms like AWS, GCP, or Azure, which is a critical skill for the position."
+  },
+  "experience_match": {
+    "score": 6.5,
+    "relevant_experience": [
+      "GenAI Intern at Pythian Technologies Pvt Ltd",
+      "Advanced Research Intern at Samsung R&D Institute Bangalore"
+    ],
+    "years_of_experience": "1 year",
+    "seniority_match": "Under-qualified",
+    "reasoning": "The candidate has some relevant experience through internships, but it falls short of the 5+ years of software development experience required for the position. Their experience is mostly in research and development, which may not directly translate to the senior software engineer role."
+  },
+  "education_match": {
+    "score": 9.0,
+    "meets_requirements": true,
+    "relevant_degrees": [
+      "B. Tech, Computer Science Engineering with specialization in AI & ML"
+    ],
+    "reasoning": "The candidate has a strong educational background with a Bachelor's degree in Computer Science Engineering and a specialization in AI & ML, which meets the job requirements. Their high CGPA score also demonstrates academic excellence."
+  },
+  "project_match": {
+    "score": 9.0,
+    "relevant_projects": [
+      "Smaller Segmentation Model Distilled from Mixture of Experts",
+      "Custom Reinforcement Learning for Unity Game",
+      "Cryptographic Encryption Using Invertible Neural Networks"
+    ],
+    "key_technologies": [
+      "Python",
+      "PyTorch",
+      "Medical Imaging",
+      "Knowledge Distillation",
+      "Unity",
+      "Reinforcement Learning"
+    ],
+    "reasoning": "The candidate has an impressive portfolio of projects that demonstrate their technical skills and innovation. These projects showcase their ability to work with various technologies, including Python, PyTorch, and Unity, and their experience with machine learning, computer vision, and reinforcement learning."
+  },
+  "cultural_fit": {
+    "score": 7.0,
+    "indicators": [
+      "Research experience",
+      "Publication history",
+      "Strong educational background"
+    ],
+    "reasoning": "The candidate appears to have a strong cultural fit due to their research experience, publication history, and academic achievements. However, there is limited information about their communication skills, problem-solving abilities, and teamwork experience, which are essential for the senior software engineer role."
+  },
+  "overall_score": 7.83,
+  "recommendation": "Potential Match",
+  "summary": "The candidate has a strong technical skill set, impressive project portfolio, and excellent educational background. However, they lack direct experience with cloud platforms and fall short of the required 5+ years of software development experience. With some training and guidance, they could potentially grow into the senior software engineer role.",
+  "strengths": [
+    "Strong technical skills",
+    "Impressive project portfolio",
+    "Excellent educational background"
+  ],
+  "concerns": [
+    "Lack of direct experience with cloud platforms",
+    "Limited experience in software development",
+    "Uncertainty about communication and teamwork skills"
+  ]
+}
