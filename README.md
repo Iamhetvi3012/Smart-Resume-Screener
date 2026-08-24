@@ -74,7 +74,21 @@ resumes against one job description and get a ranked shortlist of candidates).
                      │  ranked shortlist       │
                      └─────────────────────────┘
 ```
+## Screenshots
 
+### Dashboard
+![Dashboard](screenshot/dashboard.png)
+
+### Upload / Batch Screening
+![File Upload](screenshot/fileupload.png)
+
+### Ranked Shortlist
+![Shortlisted Candidates](screenshot/shortlisted_resume.png)
+
+### Candidate Screening Result
+![Screening Result](screenshot/result.png)
+
+---
 **Flow, in words:**
 1. User uploads one resume (single mode) or several (batch mode) plus a job
    title/description via the frontend.
